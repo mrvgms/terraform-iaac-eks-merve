@@ -1,4 +1,4 @@
-s3_bucket = "eks-merve-test"    #Will be used to set backend.tf
+s3_bucket = "interview-bucket"    #Will be used to set backend.tf
 vpc_id = "vpc-0a1181f4fb2215416"
 subnet1 = "subnet-04af7e402df10e934"
 subnet2 = "subnet-068c7fb6d3ec61115"
